@@ -36,3 +36,10 @@ body {
     margin-top: 300px;
     text-align: center;
 }
+
+.thankyou-text {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: green;
+}
