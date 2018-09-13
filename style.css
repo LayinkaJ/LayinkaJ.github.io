@@ -38,8 +38,8 @@ body {
 }
 
 .thankyou-text {
+    text-align: center;
+    color: green;
     display: flex;
     justify-content: center;
-    align-content: center;
-    color: green;
 }
